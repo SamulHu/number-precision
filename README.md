@@ -1,5 +1,7 @@
 # number-precision [![npm version](https://badge.fury.io/js/number-precision.svg)](http://badge.fury.io/js/number-precision) [![Build Status](https://travis-ci.org/dt-fe/number-precision.svg)](https://travis-ci.org/dt-fe/number-precision) [![Coverage Status](https://coveralls.io/repos/github/dt-fe/number-precision/badge.svg?branch=master)](https://coveralls.io/github/dt-fe/number-precision?branch=master)
 
+浮点数误差计算方法
+
 Perform addition, subtraction, multiplication and division operations precisely using javascript
 
 ### Why
